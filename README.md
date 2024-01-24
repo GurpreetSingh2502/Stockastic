@@ -28,44 +28,6 @@ The app workflow is:
 - **Backtesting** - Evaluate model performance
 - **Responsive design** - Works on all devices
 
-## 🚀 **Getting Started**
-
-### **Local Installation**
-
-1. Clone the repo
-
-```bash
-git clone https://github.com/user/stockastic.git
-```
-
-2. Install requirements
-
-```bash
-pip install -r requirements.txt
-```
-
-3. Change directory
-```bash
-cd streamlit_app
-```
-
-4. Run the app
-
-```bash
-streamlit run 00_😎_Main.py
-```
-
-The app will be live at ```http://localhost:8501```
-
-## 📈 **Future Roadmap**
-
-Some potential features for future releases:
-
-- **More advanced forecasting models like LSTM**
-- **Quantitative trading strategies**
-- **Portfolio optimization and tracking**
-- **Additional fundamental data**
-- **User account system**
 
 ## **⚖️ Disclaimer**
 **This is not financial advice! Use forecast data to inform your own investment research. No guarantee of trading performance.**
